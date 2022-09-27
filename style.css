@@ -1,0 +1,16 @@
+*{
+  
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+.intro{
+  background-image: url('homebackground.jpg');
+  background-size: cover;
+  white-space: pre;
+  width: 100%;
+  height: 100vh;
+  color: #0f0;
+}
